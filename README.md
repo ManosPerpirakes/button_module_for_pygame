@@ -2,6 +2,7 @@
 this module contains one class; Button()
 
 Button(self, text, window, x = 100, y = 100, width = 500, height = 50, colour = (255, 255, 255))
+
 it creates a button, given the aforementioned characteristics
 
 this class has the following methods: show(self) and click(self, function)
