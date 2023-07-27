@@ -1,5 +1,5 @@
 # button_module_for_pygame
-this module contains one class; Button()
+this module contains one class; Button(), which inherits from pygame.rect.Rect()
 
 Button(self, text, window, x = 100, y = 100, width = 500, height = 50, colour = (255, 255, 255))
 
